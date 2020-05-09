@@ -14,5 +14,5 @@ class LeadViewSet(viewsets.ModelViewSet):
   def get_queryset(self):
     return self.request.user.leads.all()
 
-  def perfrom_create(self, serializer):
+  def perform_create(self, serializer):
     serializer.save(owner=self.request.user)
