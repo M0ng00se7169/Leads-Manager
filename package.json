@@ -23,8 +23,8 @@
     "prop-types": "^15.8.0",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
-    "react-redux": "^7.2.6",
-    "redux": "^4.2.0",
+    "react-redux": "^7.2.8",
+    "redux": "^4.1.1",
     "redux-devtools-extension": "^2.13.8",
     "redux-thunk": "^2.4.1"
   }
