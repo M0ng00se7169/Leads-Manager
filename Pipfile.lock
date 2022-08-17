@@ -105,7 +105,7 @@
                 "sha256:a6e0d1ff11095b7394c079ade7094c73b2dc3df4a7a373c9b58ed73b77a97feb"
             ],
             "index": "pypi",
-            "version": "==3.1.13"
+            "version": ">=3.1.14"
         },
         "django-rest-knox": {
             "hashes": [
