@@ -1,7 +1,7 @@
 asgiref==3.2.7
 autopep8==1.5.2
 cffi==1.14.0
-cryptography==3.3.2
+cryptography==39.0.1
 Django==3.2.16
 django-rest-knox==4.1.0
 djangorestframework==3.11.2
